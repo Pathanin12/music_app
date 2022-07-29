@@ -7,7 +7,7 @@ import 'package:music_app/Service/Api/music/musicModel/music_model.dart';
 import 'package:provider/provider.dart';
 import '../../Service/Api/music/musicApi/music_api.dart';
 import '../../Ultility/constants.dart';
-import '../../Widjet/audio.dart';
+import '../../Ultility/audio.dart';
 import '../../Widjet/checkText.dart';
 import '../../Widjet/shimmer.dart';
 

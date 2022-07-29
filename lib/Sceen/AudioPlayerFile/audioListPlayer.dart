@@ -5,7 +5,7 @@ import 'package:music_app/Widjet/checkText.dart';
 import 'package:provider/provider.dart';
 
 import '../../Ultility/constants.dart';
-import '../../Widjet/audio.dart';
+import '../../Ultility/audio.dart';
 
 class audioPlayerFile extends StatefulWidget {
   final BoxPlayModel boxPlay;

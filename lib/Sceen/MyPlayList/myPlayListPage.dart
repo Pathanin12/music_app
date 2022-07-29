@@ -7,7 +7,7 @@ import 'package:music_app/Widjet/checkText.dart';
 import 'package:music_app/Widjet/listAlbum.dart';
 import 'package:provider/provider.dart';
 import '../../Ultility/constants.dart';
-import '../../Widjet/audio.dart';
+import '../../Ultility/audio.dart';
 import '../AudioPlayerFile/audioListPlayer.dart';
 import '../ListMusic/ListMusic.dart';
 
